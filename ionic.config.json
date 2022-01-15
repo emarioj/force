@@ -1,0 +1,8 @@
+{
+  "name": "FORCE",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "90ba571d"
+}
